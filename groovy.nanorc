@@ -1,5 +1,5 @@
 ## Source: https://github.com/domix/nanorc/blob/master/groovy.nanorc
-syntax "groovy" "\.groovy$" "gradle" "\.gradle$"
+syntax "groovy" "\.groovy$" "gradle" "\.gradle$" "Jenkinsfile"
 color green "\<(boolean|byte|char|double|float|int|long|new|short|this|transient)\>"
 color green "\<(break|case|catch|continue|default|do|else|finally|for|if|return|switch|throw|try|while)\>"
 color green "\<(def|abstract|class|extends|final|void|implements|import|instanceof|interface|native|package|private|protected|public|static|strictfp|super|synchronized|throws|volatile)\>"
